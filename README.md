@@ -4,6 +4,8 @@
 
 Script used for the single-unit analysis of anxiety- and valence-related activity in the anterior insular cortex. cf. paper [Dopamine transmission in the anterior insula shapes the neural coding of anxiety](https://www.biorxiv.org/content/10.1101/2024.10.25.620186v2).
 
+Original script available here: https://gitlab.com/TanmaiR/ephys_beyelerlabb
+
 It performed linear (principle component analysis, PCA) and non-linear (deep learning using [cebra](https://cebra.ai/docs/index.html)) dimensionality reduction analyses, from two assays: anxiety-related in the elevated plus maze (Fig. 4 and Fig. 6) and valence-related assay during sucrose/quinine consumptio (Fig. 5 and Fig. 6). 
 
 `EPM_PCA.ipynb`: Implement PCA 
