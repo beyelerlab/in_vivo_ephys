@@ -21,7 +21,7 @@ Rest of the files are the helper functions used in the analysis.
 
 Clone the repository your local machine. 
 
-Install the requirements.
+Use the 'environment.yaml' file. 
 
 Python version 3.8.18
 
