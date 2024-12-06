@@ -29,6 +29,7 @@ Python version 3.8.18
 
 RAM: 64.0 GB
 Processor: 12th Gen Intel(R) Core(TM) i7-12700   2.10 GHz
+GPU NVIDIA RTX A4500
 
 # Demo 
 
